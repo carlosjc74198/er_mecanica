@@ -2,7 +2,7 @@
 
 ![Badge Projeto](https://img.shields.io/badge/Status-%20Projeto-green)
 ![Badge Teste](https://img.shields.io/badge/Teste-blue)
-## Diagrama Entidade-Relacionamento (ERD)
+## Diagrama Entidade-Relacionamento (ERD) E Diagrama lógico
 ## Descrição do Projeto
 
 Este projeto é um sistema de controle e gerenciamento de execução de ordens de serviço em uma oficina mecânica. O sistema permite que clientes levem veículos à oficina para consertos ou revisões periódicas, gerenciando todo o processo desde a criação da ordem de serviço até a conclusão dos trabalhos.
